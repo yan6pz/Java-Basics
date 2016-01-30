@@ -1,2 +1,2 @@
 # Java-Basics
-Some basic java OOP usage
+Some basic Java OOP usage
